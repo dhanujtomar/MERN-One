@@ -17,4 +17,4 @@
 - Contains RestAPIs to transport data
 
 > [!Note]
-> Change URI present in `.env` file to your MongoDB URI. Here I have used atlas
+> Change URI present in `.env` file to your MongoDB URI. Here I have used MongoDB Atlas
